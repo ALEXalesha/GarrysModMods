@@ -10,6 +10,7 @@ with real mini-games inside. Every addon works in multiplayer.
 [![Garry's Mod](https://img.shields.io/badge/Garry's_Mod-Lua_addons-1a9fff)](https://gmod.facepunch.com/)
 
 [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+
 Code, tests and docs are written by Claude (Anthropic) in Claude Code. Ideas, testing and decisions - Alexey.
 
 ## Status
