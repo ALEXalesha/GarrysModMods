@@ -5,11 +5,7 @@
 
 [English](README.md)
 
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Status](https://img.shields.io/badge/status-planned-lightgrey)](#состояние)
-[![Garry's Mod](https://img.shields.io/badge/Garry's_Mod-Lua_addons-1a9fff)](https://gmod.facepunch.com/)
-
-[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+[![Status](https://img.shields.io/badge/status-planned-lightgrey)](#) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)](https://www.lua.org/) [![Garry's Mod](https://img.shields.io/badge/Garry's_Mod-Lua_addons-1a9fff)](https://gmod.facepunch.com/) [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
 
 Код, тесты и документация этого проекта написаны Claude (Anthropic) в Claude Code. Идеи, проверка и решения - Алексей.
 
